@@ -1,1 +1,3 @@
-# ProiectPAONegraruCelestinAndrei
+Proiect PAO - Gestionarea unui cabinet medical(nefinalizat)
+Aplicatia este conceputa sa gestioneze un cabinet medical, fiind compusa din clasa abstracta Medic, specializata in 5 clase derivate, clasa AsistentMedical, clasa Farmacist, clasa Pacient, dar si clase pentru gestiunea si stocarea obiectelor, precum DAO si DAOSERVVICE!
+Functionalitatile aplicatiei sunt crearea unui angajat, fie el medic, asistent sau farmacist, crearea unui pacient, consultul unui pacient de catre medicul specialist, interactionarea clientului cu cabinetul printr-un meniu interactiv de call-center, validarea retetei de catre un farmacist, etc.
