@@ -1,7 +1,8 @@
-import model.*;
-import service.*;
-import dao.*;
-import analiza.*;
+package src;
+
+import src.model.*;
+import src.service.*;
+
 public class Application {
     public static void main(String[] args) {
         Medic medic1 = new MedicGastroenterolog("Popa", "Marian", "pmarian@gmail.com", "specialist", 123456789, 10, 12000);
@@ -21,7 +22,7 @@ public class Application {
                 System.out.println(asistent.getNume());
             }
         } else {
-            System.out.println("Medicul nu a fost găsit!");
+            System.out.println("Medicul nu aaaaaaa fost găsit!");
         }
     }
 }

@@ -1,4 +1,4 @@
-package model;
+package src.model;
 public class MedicORL extends Medic{
     private static ServiciuPret[] listaServiciiORL;
     static{

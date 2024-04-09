@@ -1,12 +1,10 @@
-package service;
+package src.service;
 
 
-import model.*;
-import dao.MedicDao;
-import dao.AsistentDao;
-import dao.FarmacistDao;
-import java.util.HashMap;
-import java.util.Map;
+import src.model.*;
+import src.dao.MedicDao;
+import src.dao.AsistentDao;
+import src.dao.FarmacistDao;
 
 public class DaoService {
     private MedicDao medicDAO;

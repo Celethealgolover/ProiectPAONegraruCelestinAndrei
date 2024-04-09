@@ -1,4 +1,4 @@
-package model;
+package src.model;
 
 public class Angajat {
     private static int id_angajat=0;

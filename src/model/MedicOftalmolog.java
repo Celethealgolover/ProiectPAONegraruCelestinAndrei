@@ -1,4 +1,4 @@
-package model;
+package src.model;
 
 public class MedicOftalmolog extends Medic{
     private static ServiciuPret[] listaServiciiOftalmo;

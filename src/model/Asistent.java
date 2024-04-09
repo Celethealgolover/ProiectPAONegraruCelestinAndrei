@@ -1,4 +1,4 @@
-package model;
+package src.model;
 
 public class Asistent extends Angajat{
     private String nume, prenume, email;

@@ -1,4 +1,4 @@
-package analiza;
+package src.analiza;
 
 public class AnalizaRetetaPsihoactive implements AnalizaReteta{
     public boolean validareReteta(String reteta) {

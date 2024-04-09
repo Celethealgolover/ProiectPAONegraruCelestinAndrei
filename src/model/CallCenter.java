@@ -1,7 +1,6 @@
-package model;
+package src.model;
 import java.util.Scanner;
-import java.util.List;
-import java.util.ArrayList;
+
 public class CallCenter {
     public static void serviciiPacienti(Pacient p)
     {

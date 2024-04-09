@@ -1,7 +1,4 @@
-package model;
-
-import java.util.ArrayList;
-import java.util.List;
+package src.model;
 
 public class MedicGastroenterolog extends Medic{
     private static  ServiciuPret[] listaServiciiGastro;

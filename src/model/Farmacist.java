@@ -1,5 +1,5 @@
-package model;
-import analiza.*;
+package src.model;
+import src.analiza.*;
 public class Farmacist extends Angajat{
     private String nume, prenume, email;
     private int nrTelefon, aniExperienta;

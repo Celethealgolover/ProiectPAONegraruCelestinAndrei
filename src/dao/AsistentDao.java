@@ -1,5 +1,7 @@
-package dao;
-import model.Asistent;
+package src.dao;
+
+import src.model.Asistent;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,5 @@
-package dao;
-import model.Medic;
+package src.dao;
+import src.model.Medic;
 import java.util.ArrayList;
 import java.util.List;
 public class MedicDao {

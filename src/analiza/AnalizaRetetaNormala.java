@@ -1,4 +1,4 @@
-package analiza;
+package src.analiza;
 
 public class AnalizaRetetaNormala implements AnalizaReteta{
     public boolean validareReteta(String reteta)
